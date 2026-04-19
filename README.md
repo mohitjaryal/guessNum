@@ -32,3 +32,20 @@ Building this project helped me understand:
 - **Environment:** Works in any Python 3.x terminal or IDE  
 
 ---
+## 🎮 Gameplay Instructions**
+1. The computer selects a random number within a given range (e.g., 1–100).  
+2. Enter your guess when prompted.  
+3. The program will tell you if your guess is too high or too low.  
+4. Keep guessing until you find the correct number.  
+5. Try to win in the fewest attempts possible!  
+
+---
+## 🔮 Future Improvements**
+- Add difficulty levels (Easy, Medium, Hard)  
+- Limit number of attempts based on difficulty  
+- Add a scoring system 🏆  
+- Store high scores using a file  
+- Build a GUI version using Tkinter or PyQt  
+- Add sound effects for better user experience  
+
+---
